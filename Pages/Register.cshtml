@@ -1,0 +1,31 @@
+﻿@page
+@model WebApplication_poe.Pages.RegisterModulesModel
+@{
+    Layout = "_LayoutLogin";
+}
+
+<link rel="stylesheet" href="~/css/LOGIN.css" />
+<script src="/js/LOGIN.js"></script>
+<div class="vid-container">
+    <video id="Video1" class="bgvid back" autoplay="false" muted="muted" preload="auto" loop>
+        <source src="http://shortcodelic1.manuelmasiacsasi.netdna-cdn.com/themes/geode/wp-content/uploads/2014/04/milky-way-river-1280hd.mp4.mp4" type="video/mp4">
+    </video>
+    <div class="inner-container">
+        <video id="Video2" class="bgvid inner" autoplay="false" muted="muted" preload="auto" loop>
+            <source src="http://shortcodelic1.manuelmasiacsasi.netdna-cdn.com/themes/geode/wp-content/uploads/2014/04/milky-way-river-1280hd.mp4.mp4" type="video/mp4">
+        </video>
+        <div class="box">
+            <form method="post">
+                <h1>Register</h1>
+                <input type="text" placeholder="Username" name="txtUsername" />
+                <input type="text" placeholder="Password" name="txtPass" />
+                <input type="text" placeholder="Confirm Password" name="" />
+                <button>Register</button>
+                <p>Are you are member  <a href="/Login">Login</a></p>
+
+            </form>
+            
+                
+        </div>
+    </div>
+</div>

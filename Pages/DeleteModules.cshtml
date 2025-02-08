@@ -1,0 +1,12 @@
+﻿@page
+
+
+@{
+    string Modulecode = Request.Query["Modulecode"];
+    ClientModuleAndPersonalData mo = new ClientModuleAndPersonalData();
+    mo.DeleteModules(Modulecode);
+
+
+
+    Response.Redirect("/AllModules");
+}

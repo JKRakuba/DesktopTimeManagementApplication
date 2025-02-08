@@ -1,0 +1,45 @@
+﻿@page
+@model WebApplication_poe.Pages.EditModulesModel
+@{
+}
+<h2>Edit modules</h2>
+<form class="row g-3" method="post">
+    <div class="col-md-6">
+        <label for="inputModuleID" class="form-label">Module Code</label>
+        <input type="text" class="form-control" id="inputModuleID" name="txtMcod" disabled value="@Model.mo.ModuleCode">
+    </div>
+    <div class="col-md-6">
+        <label for="inputModName" class="form-label">Name</label>
+        <input type="text" class="form-control" id="inputModName" name="txtModName" value="@Model.mo.ModuleName">
+    </div>
+    <div class="col-md-6">
+        <label for="inputcred" class="form-label">Number of Credits</label>
+        <input type="text" class="form-control" id="inputcred" name="txtCred" value="@Model.mo.ModuleCredits">
+    </div>
+    <div class="col-md-6">
+        <label for="inputHrsW" class="form-label">Class Hours Per week</label>
+        <input type="text" class="form-control" id="inputHrsW" name="txtHrs" value="@Model.mo.WeeklyClassHours">
+    </div>
+    <div class="col-md-6">
+        <label for="inputNoW" class="form-label">Number of Weeks</label>
+        <input type="text" class="form-control" id="inputNoW" name="txtnw" value="@Model.mo.Number_of_Weeks">
+    </div>
+
+    <div class="col-md-6">
+        <label for="inputSelfStudy" class="form-label">Self Study Hours</label>
+        <input type="text" class="form-control" id="inputSelfStudy" name="txtSS" value="@Model.mo.SelfstudyHours">
+    </div>
+
+
+    <div class="col-md-6">
+        <label for="inputStrDate" class="form-label">Start Date</label>
+        <input type="date" class="form-control" id="inputStrDate" name="txtDate" value="@Model.mo.StartDate">
+    </div>
+
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Update</button>
+    </div>
+
+
+</form>

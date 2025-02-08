@@ -1,0 +1,39 @@
+﻿@page
+@model WebApplication_poe.Pages.AllModulesModel
+@{
+
+
+}
+<h2>All Modules</h2>
+
+<a class="btn btn-primary" href="/NewModules">New</a>
+<table class="table"> 
+    <thead>
+        <tr>
+            <td>ModuleCode</td>
+            <td>ModuleName</td>
+            <td>NumberofCredits</td>
+            <td>ClassHoursPerWeek</td>
+            <td>NumberofWeeks</td>
+            <td>StartDate</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var mo in Model.moList)
+        {
+            <tr>
+                <td>@mo.ModuleCode</td>
+                <td>@mo.ModuleName</td>
+                <td>@mo.ModuleCredits</td>
+                <td>@mo.WeeklyClassHours</td>
+                <td>@mo.Number_of_Weeks</td>
+                <td>@mo.StartDate</td>
+                <td>
+                    <a class="btn btn-primary" href="/EditModule?ModuleCode=@mo.ModuleCode">Edit</a>
+                    <a class="btn btn-danger" href="/DeleteModule?ModuleCode=@mo.ModuleCode">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+	

@@ -1,0 +1,43 @@
+﻿@page
+@model WebApplication_poe.Pages.NewModuleModel
+@{
+}
+<h2>New modules</h2>
+<form class="row g-3" method="post">
+    <div class="col-md-6">
+        <label for="inputModuleID" class="form-label">Module Code</label>
+        <input type="text" class="form-control" id="inputModuleID" name="txtMcod">
+    </div>
+    <div class="col-md-6">
+        <label for="inputModName" class="form-label">Name</label>
+        <input type="text" class="form-control" id="inputModName" name="txtModName" >
+    </div>
+    <div class="col-md-6">
+        <label for="inputcred" class="form-label">Number of Credits</label>
+        <input type="text" class="form-control" id="inputcred" name="txtCred">
+    </div>
+    <div class="col-md-6">
+        <label for="inputHrsW" class="form-label">Class Hours Per week</label>
+        <input type="text" class="form-control" id="inputHrsW" name="txtHrs">
+    </div>
+    <div class="col-md-6">
+        <label for="inputNoW" class="form-label">Number of Weeks</label>
+        <input type="text" class="form-control" id="inputNoW" name="txtnw">
+    </div>
+
+    <div class="col-md-6">
+        <label for="inputSelfStudy" class="form-label">Self Study Hours</label>
+        <input type="text" class="form-control" id="inputSelfStudy" name="txtSS" >
+    </div>
+
+
+    <div class="col-md-6">
+        <label for="inputStrDate" class="form-label">Start Date</label>
+        <input type="date" class="form-control" id="inputStrDate" name="txtDate" >
+    </div>
+
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Add Module</button>
+    </div>
+<</form>>

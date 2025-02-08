@@ -1,0 +1,224 @@
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.exe
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.deps.json
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.runtimeconfig.json
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.runtimeconfig.dev.json
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.dll
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.pdb
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.Views.dll
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.Views.pdb
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.csproj.AssemblyReference.cache
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.AssemblyInfoInputs.cache
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.AssemblyInfo.cs
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.csproj.CoreCompileInputs.cache
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.RazorAssemblyInfo.cache
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.RazorAssemblyInfo.cs
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication poe.StaticWebAssets.Manifest.cache
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication poe.StaticWebAssets.xml
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication poe.styles.css
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.TagHelpers.input.cache
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.TagHelpers.output.cache
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.RazorCoreGenerate.cache
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\AllModules.cshtml.g.cs
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\DeleteModules.cshtml.g.cs
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\EditModules.cshtml.g.cs
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Login.cshtml.g.cs
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.RazorTargetAssemblyInfo.cache
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.RazorTargetAssemblyInfo.cs
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.Views.pdb
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.dll
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.pdb
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.genruntimeconfig.cache
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.csproj.CopyComplete
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Register.cshtml.g.cs
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\appsettings.json
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.exe
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.deps.json
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.runtimeconfig.json
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.runtimeconfig.dev.json
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.dll
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.pdb
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.Views.dll
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.Views.pdb
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\EntityFramework.dll
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.csproj.AssemblyReference.cache
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.AssemblyInfoInputs.cache
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.AssemblyInfo.cs
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.csproj.CoreCompileInputs.cache
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.MvcApplicationPartsAssemblyInfo.cache
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.RazorAssemblyInfo.cache
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.RazorAssemblyInfo.cs
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication poe.StaticWebAssets.Manifest.cache
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication poe.StaticWebAssets.xml
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication poe.styles.css
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.TagHelpers.input.cache
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.TagHelpers.output.cache
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.RazorCoreGenerate.cache
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\AllModules.cshtml.g.cs
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\DeleteModules.cshtml.g.cs
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\EditModules.cshtml.g.cs
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Login.cshtml.g.cs
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Register.cshtml.g.cs
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LayoutLogin.cshtml.g.cs
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.RazorTargetAssemblyInfo.cache
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.RazorTargetAssemblyInfo.cs
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.Views.pdb
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.csproj.CopyComplete
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.dll
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.pdb
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.genruntimeconfig.cache
+E:\PROG2B\poe\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\NewModules.cshtml.g.cs
+C:\Users\ST10102857\Desktop\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\NewModules.cshtml.g.cs
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.exe
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.deps.json
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.runtimeconfig.json
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.runtimeconfig.dev.json
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.dll
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.pdb
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.Views.dll
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.Views.pdb
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.csproj.AssemblyReference.cache
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.AssemblyInfoInputs.cache
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.AssemblyInfo.cs
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.csproj.CoreCompileInputs.cache
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.RazorAssemblyInfo.cache
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.RazorAssemblyInfo.cs
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication poe.StaticWebAssets.Manifest.cache
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication poe.StaticWebAssets.xml
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication poe.styles.css
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.TagHelpers.input.cache
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.TagHelpers.output.cache
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.RazorCoreGenerate.cache
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\AllModules.cshtml.g.cs
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\DeleteModules.cshtml.g.cs
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\EditModules.cshtml.g.cs
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Login.cshtml.g.cs
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\NewModules.cshtml.g.cs
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Register.cshtml.g.cs
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.RazorTargetAssemblyInfo.cache
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.RazorTargetAssemblyInfo.cs
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.Views.pdb
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.csproj.CopyComplete
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.dll
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.pdb
+C:\Users\ST10102857\Downloads\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.genruntimeconfig.cache
+E:\poe update\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\poe update\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\appsettings.json
+E:\poe update\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.exe
+E:\poe update\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.deps.json
+E:\poe update\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.runtimeconfig.json
+E:\poe update\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.runtimeconfig.dev.json
+E:\poe update\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.dll
+E:\poe update\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.pdb
+E:\poe update\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.Views.dll
+E:\poe update\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\WebApplication poe.Views.pdb
+E:\poe update\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+E:\poe update\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\EntityFramework.dll
+E:\poe update\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+E:\poe update\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\poe update\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\poe update\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\poe update\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\poe update\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\poe update\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\poe update\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\poe update\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\poe update\WebApplication poe\WebApplication poe\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.csproj.AssemblyReference.cache
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.GeneratedMSBuildEditorConfig.editorconfig
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.AssemblyInfoInputs.cache
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.AssemblyInfo.cs
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.csproj.CoreCompileInputs.cache
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.MvcApplicationPartsAssemblyInfo.cache
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.RazorAssemblyInfo.cache
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.RazorAssemblyInfo.cs
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication poe.StaticWebAssets.Manifest.cache
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication poe.StaticWebAssets.xml
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication poe.styles.css
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.TagHelpers.input.cache
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.TagHelpers.output.cache
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.RazorCoreGenerate.cache
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\AllModules.cshtml.g.cs
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\DeleteModules.cshtml.g.cs
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\EditModules.cshtml.g.cs
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Login.cshtml.g.cs
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\NewModules.cshtml.g.cs
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Register.cshtml.g.cs
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LayoutLogin.cshtml.g.cs
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.RazorTargetAssemblyInfo.cache
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.RazorTargetAssemblyInfo.cs
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.Views.pdb
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.csproj.CopyComplete
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.dll
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.pdb
+E:\poe update\WebApplication poe\WebApplication poe\obj\Debug\netcoreapp3.1\WebApplication poe.genruntimeconfig.cache
